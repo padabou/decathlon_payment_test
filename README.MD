@@ -1,6 +1,6 @@
 ## TODO 
 * Add swagger/open api 
-* add controller advice to manage exception and ret
+* add controller advice to manage exception and return status
 * migrate to webflux
 * implement builder to simplify code
 * move mapper to a dedicated static class
